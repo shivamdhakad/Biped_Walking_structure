@@ -1,0 +1,2 @@
+# Biped-robot
+The project includes CAD designing and 3D printing the legged frame of the robot with Arduino control assembly, scripting the path planning and the computer-vision prepared assistive control to command the robot. Initially, the model is simulated in V-rep simulators and then applying the codes to the physical biped robot, which will mimic the action performed by the robot in the v-rep simulated environment with obstacles and paths.
